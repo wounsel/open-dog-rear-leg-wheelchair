@@ -13,6 +13,7 @@ The design goals for this project are:
 * Mobility improvements for dogs with rear-leg issues
 * Easy to acquire Bill of Materials
 * Printable models (for inexpensive, desktop 3d printers)
+* Adjustability 
 
 Current issues:
 * The design is untested as of 10/6/2015. Testing / assembly is scheduled within a month of this date.
