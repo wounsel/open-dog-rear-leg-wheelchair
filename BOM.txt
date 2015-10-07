@@ -4,7 +4,7 @@ Open-Dog Rear-Leg-Wheelchair
 Bill of Materials 
 
 (2X):
-[printed parts]
+[printed parts]  
 *front-connector.stl
 *middle-connector.stl
 *rear-connector.stl
@@ -28,3 +28,14 @@ Bill of Materials
 *Length of 1.25” PVC pipe
 *Length of insulation foam for 1.25” PVC pipe
 *5-minute epoxy, or similar strong adhesive glue
+
+
+************** Recommended print settings: 
+ Support generation: OFF
+ greater than 3 shells (6 ideal)
+ greater than 25% infill (50% ideal)
+ PETG or ABS recommended (PLA could warp in heat)
+ 
+ For tire.stl, flexible filament is required. Ninjaflex or ecoflex-type filaments are recommended, MakerBot brand flexible filament discouraged due to low-temperature resistance. 
+
+
