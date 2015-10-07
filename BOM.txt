@@ -1,0 +1,30 @@
+
+Open-Dog Rear-Leg-Wheelchair
+
+Bill of Materials 
+
+(2X):
+[printed parts]
+*front-connector.stl
+*middle-connector.stl
+*rear-connector.stl
+*wheel.stl
+*tire.stl
+
+(2X):
+[hardware]
+*8mm bolt of > 45mm length
+*Appropriate nut for the 8mm bolt
+*Nylon zip-ties
+
+(4X):
+[additional harware]
+*Harness material + buckles (unknown currently)
+*608z (skateboard) bearings
+*Washers for the 8mm bolt
+
+(1X):
+[hardware]
+*Length of 1.25” PVC pipe
+*Length of insulation foam for 1.25” PVC pipe
+*5-minute epoxy, or similar strong adhesive glue
