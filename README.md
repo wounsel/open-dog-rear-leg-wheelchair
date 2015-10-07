@@ -19,3 +19,6 @@ Current issues:
 * Need to acquire materials for harness design
 * Requires the availability of 3d printing flexible material, which is not always available or compatible with all printers.
 * Currently requires glue for assembly
+
+Check out the Bill of Materials before attempting a build: 
+[BOM.txt](BOM.txt)
