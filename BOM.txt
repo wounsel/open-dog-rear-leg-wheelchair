@@ -25,8 +25,8 @@ Bill of Materials
 
 (1X):
 [hardware]
-*Length of 1.25” PVC pipe
-*Length of insulation foam for 1.25” PVC pipe
+*Length of 1” or 3/4” PVC pipe (different files correspond)
+*Length of insulation foam for your size PVC pipe
 *5-minute epoxy, or similar strong adhesive glue
 
 
