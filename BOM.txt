@@ -36,6 +36,8 @@ Bill of Materials
  greater than 25% infill (50% ideal)
  PETG or ABS recommended (PLA could warp in heat)
  
+*For wheel.stl you’ll need support generated for the interior area where the bearings fit in / axle goes through the wheel.
+
  For tire.stl, flexible filament is required. Ninjaflex or ecoflex-type filaments are recommended, MakerBot brand flexible filament discouraged due to low-temperature resistance. 
 
 
